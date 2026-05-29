@@ -1,0 +1,21 @@
+# Legal Research Chatbot
+
+An AI-powered Legal Research Chatbot that helps users find legal information through natural language queries.
+
+## Features
+- Legal information retrieval
+- Natural Language Processing (NLP)
+- User-friendly interface
+- Fast and accurate responses
+
+## Technologies Used
+- Python
+- Hugging Face Transformers
+- Gradio
+- Machine Learning
+
+## Author
+Muhammad Zaeem Fayyaz
+
+## Live Demo
+Paste your Hugging Face Space link here
